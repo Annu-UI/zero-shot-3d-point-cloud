@@ -56,7 +56,7 @@ Every run produces a quality report with real metrics — coverage, density, noi
 
 | Image | Object | Mask Coverage | Quality Score | 3D Points | Time (CPU) |
 |---|---|---|---|---|---|
-| Wooden chair | chair | **94.74%** | **75.83/100** | 13,287 | ~31s |
+| Wooden chair | chair | **94.19%** | **75.46/100** | 5,235 | ~31s |
 
 ---
 
